@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Pranav Lawande</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rahul-6472&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-6472" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-6472" alt="rahul-6472" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rahulpandey6472" target="blank"><img src="https://img.shields.io/twitter/follow/rahulpandey6472?logo=twitter&style=for-the-badge" alt="rahulpandey6472" /></a> </p>
+
 
 - 🔭 I’m currently working on **Pharmeasy - clone website**
 
@@ -34,6 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-6472&show_icons=true&locale=en&layout=compact" alt="rahul-6472" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-6472&show_icons=true&locale=en" alt="rahul-6472" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-6472&" alt="rahul-6472" /></p>
