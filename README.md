@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://activity-graph.herokuapp.com/graph?username=lawandepranav&theme=gruvbox&hide_border=true&area=true" alt="ovi" width="410" /></p>
