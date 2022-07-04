@@ -19,7 +19,7 @@
 - 📫 How to reach me **lawandepranav96@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BEFNP1PBoQvNpEAwKp-iPv9bnY5dRfms/view?usp=sharing](https://drive.google.com/file/d/1BEFNP1PBoQvNpEAwKp-iPv9bnY5dRfms/view?usp=sharing)
-
+<p margin-top="30px"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
