@@ -1,4 +1,4 @@
-<p align = "center"><img  width= "100%" height = "350px" src = "https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" alt = "banner"></p>
+<p align = "center"><img  width= "100%" height = "420px" src = "https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" alt = "banner"></p>
 
 
 <h1 align="center">Hi 👋, I'm Pranav Lawande</h1>
