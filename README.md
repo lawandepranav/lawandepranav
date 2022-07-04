@@ -5,6 +5,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lawandepranav&label=Profile%20views&color=0e75b6&style=flat" alt="lawandepranav" /> </p>
+<a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawandepranav" alt="lawandepranav" /></a> </p>
 
