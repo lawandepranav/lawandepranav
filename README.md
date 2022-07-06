@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawandepranav" alt="lawandepranav" /></a> </p>
 
-<p> react hooks, closers, promises, routes, fetch, react dom (virtual dom and regular dom diff), data types</p>
+
 
 - 🔭 I’m currently working on **Pharmeasy - clone website**
 
