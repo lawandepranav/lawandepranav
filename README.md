@@ -24,6 +24,8 @@
 - English 🔤
 - Marathi
 - Hindi
+
+<p margin-top="30px"></p>
 <br><br>
 <a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a><a href="https://github.com/laandepranav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lawandepranav">
