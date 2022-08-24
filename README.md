@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranav Lawande</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
 
 <a href="https://github.com/laandepranav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lawandepranav">
@@ -11,16 +11,23 @@
 <a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<h3 align="left">About me:</h3>
+<h3 align="left">Interests:</h3>
 
+- Front end Development
+- Data Structures And Algorithms 💻
+- React & Redux 
 
-- 🌱 I’m currently learning **MERN STACK**
+<h3 align="left">Portfolio:</h3>
 
-- 💬 Ask me about **React, Redux, Javascript, CSS, HTML, Data structure and Algorithms**
+- [@Ritesh_kamthe](ritesh07.netlify.app)
 
-- 📫 How to reach me **lawandepranav96@gmail.com**
+<h3 align="left">Languages:</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BEFNP1PBoQvNpEAwKp-iPv9bnY5dRfms/view?usp=sharing](https://drive.google.com/file/d/1BEFNP1PBoQvNpEAwKp-iPv9bnY5dRfms/view?usp=sharing)
+- English 🔤
+- Marathi
+- Hindi
+
+<br><br>
 <p margin-top="30px"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
