@@ -7,7 +7,9 @@
 <a href="https://github.com/laandepranav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lawandepranav">
 </a> </p>
+
 <a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawandepranav" alt="lawandepranav" /></a> </p>
 
