@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Pharmeasy - clone website**
+- 🔭 I’m currently working on **Swiggy-Clone website**
 
 - 🌱 I’m currently learning **MERN STACK**
 
