@@ -1,13 +1,11 @@
-<p align = "center"><img  width= "100%" height = "450px" src = "https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" alt = "banner"></p>
+<h1 align="center">Hey there, I'm Pranav<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-
-<h1 align="center">Hi 👋, I'm Pranav Lawande</h1>
 <h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
 
- </p>
+<br>
 
 
-
+<img width="40%" align="right" alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h3 align="left">Interests:</h3>
 
