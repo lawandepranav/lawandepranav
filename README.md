@@ -49,6 +49,6 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="lawandepranav" />
 
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" width="50%" height="200"/></p>
 
-<p>&nbsp;<img align="left" src="https://activity-graph.herokuapp.com/graph?username=lawandepranav&theme=gruvbox&hide_border=true&area=true" alt="lawandepranav" /></p>
+
