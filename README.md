@@ -31,7 +31,7 @@
 
 <br><br>
 <p margin-top="30px"></p>
-## *Connect with me🧰*<br>
+<h3 align="left">Connect With Me:</h3>
 
 <a href="https://www.linkedin.com/in/pranav-lawande-aa57a317b/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN:Pranav Lawande" height="30" width="40" />
