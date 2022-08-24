@@ -26,8 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/Pranav96419425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lawandepranav" height="30" width="40" /></a>
- 
+<a href="https://twitter.com/Pranav96419425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lawandepranav" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/pranav-lawande-aa57a317b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lawandepranav" height="30" width="40" /></a>
 <a href="https://62f685cafd976602e758172c--pranav96-portfolio.netlify.app/" target="blank"><img align="center" src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" alt="Portfolio" height="30" width="40" /></a>
 
