@@ -44,10 +44,11 @@
 <p align="left">  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://github.com/lawandepranav" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://codesandbox.io/framework/react" target="_blank" rel="noreferrer"> <img src="https://www.finsmes.com/wp-content/uploads/2020/10/codesandbox-300x300.png" alt="CodesandBox" width="50" height="50"/> </a></p>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" alt="lawandepranav" /></p>
+ 
+<img  src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en" alt="lawandepranav" width="49%" height="200" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="lawandepranav" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en" alt="lawandepranav" /></p>
-
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" /></p>
 
 <p>&nbsp;<img align="left" src="https://activity-graph.herokuapp.com/graph?username=lawandepranav&theme=gruvbox&hide_border=true&area=true" alt="lawandepranav" /></p>
