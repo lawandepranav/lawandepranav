@@ -4,11 +4,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Lawande</h1>
 <h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
 
-<a href="https://github.com/laandepranav/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=lawandepranav">
-</a> </p>
+ </p>
 
-<a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 <h3 align="left">Interests:</h3>
@@ -26,6 +24,10 @@
 - English 🔤
 - Marathi
 - Hindi
+
+<a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a><a href="https://github.com/laandepranav/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=lawandepranav">
+</a>
 
 <br><br>
 <p margin-top="30px"></p>
