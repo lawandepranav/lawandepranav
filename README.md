@@ -9,7 +9,7 @@
 
 <h3 align="left">Interests:</h3>
 
-- Front end Development
+- Full Stack Development
 - Data Structures And Algorithms 💻
 - React & Redux 
 
