@@ -42,11 +42,13 @@
 
 </p>
 <p margin-top="30px"></p>
+<br><br>
 <p></P>
 <h3 align="left">Tech Stack:</h3>
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" width="60px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" width="60px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" width="60px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank" rel="noreferrer" width="60px"> <img src="https://www.logolynx.com/images/logolynx/s_ec/ec9224e14b7476e155b363056123d564.jpeg" alt="NodeJS" width="50" height="50"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" width="60px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer" width="60px"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" alt="Redux" width="50" height="50"/> </a> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer" width="60px"> <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="ChakraUI" width="50" height="50"/> </a> <a href="https://mui.com/" target="_blank" rel="noreferrer" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="MaterialUI" width="50" height="50"/> </a> <a href="https://styled-components.com/" target="_blank" rel="noreferrer" width="60px"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="50" height="50"/> </a> </p>
 
 <p margin-top="30px"></p>
+<br><br>
 <p></P>
 <p></P>
 
@@ -55,12 +57,15 @@
 
 <p margin-top="30px"></p>
 <p margin-top="30px"></p>
+<br><br>
 <div>
  
 <img  src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en" alt="lawandepranav" width="49%" height="200" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="lawandepranav" />
 </div>
+<br><br>
 <p margin-top="30px"></p>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" width="50%" height="200"/></p>
 
 
