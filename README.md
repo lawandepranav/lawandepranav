@@ -60,9 +60,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en" alt="lawandepranav" width="49%" height="200" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="lawandepranav" />
 </div>
-<br><br>
-<p margin-top="30px"></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawandepranav&" alt="lawandepranav" width="50%" height="200"/></p>
 
 
