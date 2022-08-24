@@ -53,8 +53,8 @@
 <p margin-top="30px"></p>
 <p margin-top="30px"></p>
 <br><br>
-<div>
  ## &#x1f4c8; My GitHub Stats🎯
+<div>
 <img  src="https://github-readme-stats.vercel.app/api?username=lawandepranav&show_icons=true&locale=en" alt="lawandepranav" width="49%" height="200" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lawandepranav&show_icons=true&locale=en&layout=compact" width="50%" height="200"  alt="lawandepranav" />
 </div>
