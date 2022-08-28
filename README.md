@@ -15,7 +15,7 @@
 
 <h3 align="left">Portfolio:</h3>
 
-- [@Pranav Lawande](https://62f685cafd976602e758172c--pranav96-portfolio.netlify.app)
+- [@Pranav Lawande](https://pranavlawande-portfolio.netlify.app)
 
 <h3 align="left">Languages:</h3>
 
