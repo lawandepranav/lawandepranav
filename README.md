@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Pranav<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Developer skilled in MERN stack and a Life-Long Learner</h3>
+<h3 align="center">An Enthusiast, Passionate aspiring Full Stack Web Developer skilled in MERN stack and a Life-Long Learner</h3>
 
 <br>
 
