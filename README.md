@@ -35,9 +35,7 @@
 
 <a href="https://www.linkedin.com/in/pranav-lawande-aa57a317b/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIN:Pranav Lawande" height="30" width="40" />
-<br><br>
-   
-   <a href="https://twitter.com/Pranav96419425" target="blank" >
+<a href="https://twitter.com/Pranav96419425" target="blank" >
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="example" height="30" width="40" />
 <br>
 
