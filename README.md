@@ -23,14 +23,14 @@
 - Marathi
 - Hindi
 
-<p margin-top="30px"></p>
+<p margin-top="20px"></p>
 <br><br>
 <a href="https://github.com/lawandepranav?tab=followers"><img src="https://img.shields.io/github/followers/lawandepranav?label=Followers&style=social" alt="GitHub Badge"></a><a href="https://github.com/laandepranav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lawandepranav">
 </a>
 
 <br><br>
-<p margin-top="30px"></p>
+<p margin-top="20px"></p>
 <h3 align="left">Connect With Me:</h3>
 
 <a href="https://www.linkedin.com/in/pranav-lawande-aa57a317b/" target="blank">
@@ -39,7 +39,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="example" height="30" width="40" />
 <br>
 
-<p margin-top="30px"></p>
+<p margin-top="20px"></p>
 <br><br>
 
 
@@ -52,8 +52,8 @@
 <h3 align="left">Tools:</h3>
 <p align="left">  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://github.com/lawandepranav" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://codesandbox.io/framework/react" target="_blank" rel="noreferrer"> <img src="https://www.finsmes.com/wp-content/uploads/2020/10/codesandbox-300x300.png" alt="CodesandBox" width="50" height="50"/> </a></p>
 
-<p margin-top="30px"></p>
-<p margin-top="30px"></p>
+<p margin-top="20px"></p>
+
 <br><br>
 
 <h3 align="left">Github Stats:</h3>
